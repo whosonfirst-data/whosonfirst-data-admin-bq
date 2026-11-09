@@ -36,7 +36,7 @@
         "gn:id":3513751
     },
     "wof:country":"BQ",
-    "wof:geomhash":"980d84c5b3891b651a843e72c74d43d8",
+    "wof:geomhash":"7123272e38740d4737218e4516e40380",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,5 +61,5 @@
     -63.21666999999999,
     17.61667000000001
 ],
-  "geometry": {"coordinates":[-63.21666999999999,17.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[-63.21667,17.61667],"type":"Point"}
 }
